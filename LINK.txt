@@ -1,0 +1,15 @@
+Curso circular de R para ciencia de datos:
+Lo dicta Julio Paredes
+Las clases teóricas son los Lunes 20:15 hs
+El link al zoom es: https://us06web.zoom.us/j/87009852952
+Las clases prácticas son los Viernes 21:30 hs
+El link al zoom es: https://us06web.zoom.us/j/81092183169
+El link a las clases grabadas: 
+https://www.dropbox.com/scl/fo/yq9trt66is303wdgwvzmc/AHS4I5ofESZV5CcOy0XABOc?rlkey=9vw7nblw9pk06ar3xrj5gsmoh&e=1&st=mnfirhgp&dl=0
+https://shiny.posit.co/r/gallery/
+
+Curso circular de Python:
+Lo dicta Anahí Romo
+Las clases tienen lugar los Martes 19:30 hs
+Las clases duran entre 1 y 3 horas
+El link de acceso al zoom es: https://us06web.zoom.us/j/88124020422
